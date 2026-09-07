@@ -6,7 +6,7 @@
 
 [[Engineering notes]](NOTES.md) · [[Eval harness]](eval_libero.sh) · [[Rollout review]](review_rollouts.py)
 
-<img src="media/showcase.png" width="720" alt="LIBERO rollouts">
+<img src="media/rollouts.gif" width="640" alt="LIBERO rollouts, fine-tuned SmolVLA">
 
 </div>
 
